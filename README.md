@@ -1,7 +1,7 @@
 ### Olá, Eu sou Jeferson Luan
 
-- 🔭 Trabalho como monitor voluntário ensinando informática e matemática
-- 🌱 Estudando JavaScript
+- 🔭 Trabalho como coordenador do laboratório de ciências e robótica
+- 🌱 Estudando ReactJs
 - 😄 Pronouns: ele/dele
 
 
