@@ -1,9 +1,7 @@
 ### Olá, Eu sou Jeferson Luan
 
-- 🔭 Trabalho como coordenador do laboratório de ciências e robótica
+- 🔭 Coordenador do laboratório de ciências e robótica
 - 🌱 Estudando ReactJs
-- 😄 Pronouns: ele/dele
-
 
 <div>
 <a href="https://github.com/jefersonluan">
